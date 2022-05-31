@@ -1,0 +1,83 @@
+div {
+    background: #E6E6E6;    
+}
+
+h1 {
+    background: #C4C4C4;
+    text-align: center;
+    height: 60px;
+    margin: 0;
+    line-height: 60px;
+    color: #005677;
+    letter-spacing: 10px;
+}
+
+h2 {
+    background: #C4C4C4;
+    height: 30px;
+    margin: 0;
+    line-height: 30px;
+    color: #005677;
+    letter-spacing: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+footer {
+    text-align: center;
+    background: #005677;
+    color: white;    
+    height: 37px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 37px;
+}
+
+.titleBackground {
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+}
+
+.emptySpace {
+    height: 128px;
+    background: white;
+}
+
+.icons {
+    margin-left: 20px;
+    margin-bottom: -4px;
+}
+
+i{
+    font-weight: bold;
+}
+.common_container{
+    background: white;
+    height: 120px;
+}
+body{
+    margin:0;
+}
+
+.experienceList{
+    display: inline-grid;
+    margin-left: -40px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.common_experienceList{
+    margin-left: -20px;
+    font-weight: bold;
+}
+
+.personalData{
+    line-height: 25px;
+}
+
+.experience{
+    height: 300px;
+}
